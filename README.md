@@ -1,4 +1,4 @@
-**说明：自动提取[爱好论坛](https://www.aihao.cc/forum.php)帖子中的密钥，检测结果自动更新。**
+**说明：自动提取[爱好论坛](https://www.aihao.cc/forum.php)帖子中的密钥，检测结果自动更新。**  
 **看不到图片自己挂代理**
 
 # Windows 7 Retail
